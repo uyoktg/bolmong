@@ -1,0 +1,30 @@
+* {
+  font-family: "Rancho", cursive;
+}
+
+h1,
+h2,
+h3 {
+  letter-spacing: 5px;
+}
+
+.badge {
+  font-family: serif;
+}
+
+.py-50 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.pb-50 {
+  padding-bottom: 50px;
+}
+
+.pt-50 {
+  padding-top: 50px;
+}
+
+.py-20 {
+  padding: 20px 0px;
+}
